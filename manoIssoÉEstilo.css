@@ -1,0 +1,59 @@
+body {
+  background: #3879D9;
+  color: #FFFFFF;
+  font: normal 20pt Arial;
+}
+header {
+  h1 {
+    text-align: center;
+  }
+}
+
+section {
+  
+  input#numero {
+    border-radius: 8px;
+    font: normal 20px Arial;
+  }
+  
+  div#adicionar {
+    background: #78D2FF;
+    border-radius: 8px;
+    font: normal 20px Arial;
+    width: 87px;
+    text-align: center;
+    box-shadow: 0px 0px 0px 2px#F1F6FF;
+    color: #2C50A0;
+  }
+  
+  div#resultado {
+    background: #78D2FF;
+    border-radius: 8px;
+    font: normal 20px Arial;
+    height: 20px;
+    width: 200px;
+    text-align: center;
+    box-shadow: 0px 0px 0px 2px#F1F6FF;
+    color: #2C50A0;
+  }
+  div#lista {
+    width: 100%;
+    background: #FFFFFF;
+    color: #6B6B6B;
+    box-shadow: 0px 0px 0px 2px #ACB1FF;
+    font: normal 15px Arial;
+    border-radius: 8px;
+  }
+  div#resultNaTela {
+    width: 100%;
+    background: #FFFFFF;
+    color: #6B6B6B;
+    box-shadow: 0px 0px 0px 2px #ACB1FF;
+    font: normal 15px Arial;
+    border-radius: 8px;
+  }
+}
+
+footer {
+  text-align: center;
+}
